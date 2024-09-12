@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(24, 128, 208);
+}
+div{
+    text-align: center;
+}
+h1{
+    color: rgba(198, 71, 12, 0.847);
+}
+.weather{
+    font-size: 2em;
+    color: #dff116;;
+}
+.description{
+    font-style: italic;
+    font: arial;
+}
